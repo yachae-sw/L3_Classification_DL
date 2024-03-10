@@ -2,6 +2,9 @@
 
 **세 번째 요추 CT 데이터 분류 딥러닝 모델 개발 프로젝트**
 
+### 논문
+[L3_Classification_Thesis.pdf](https://github.com/yachae-sw/L3_Classification_DL/files/14548936/L3_Classification_Thesis.pdf)
+
 | Lumbar Vertebrae 3 |
 |---|
 | <img src="https://github.com/yachae-sw/Muscle_Fat_Segmentation_DL/assets/93850398/c4c037e6-72d2-4394-a16f-92abd54063fd" width="350"> |
